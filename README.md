@@ -1,0 +1,1 @@
+(OUTDATED MAP/CHARACTER LIST AND COMPS) Program that when given an overwatch map will give you top character picks for each role based on current meta team compositions. Also has file integration with sorting function and searching algorithm.
